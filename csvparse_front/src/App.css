@@ -1,0 +1,39 @@
+.button {
+  margin-top: 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: white;
+  transition: 1s;
+}
+
+.button:hover {
+  background-color: lightcoral;
+}
+
+.button:focus {
+  background-color: white;
+}
+
+.saveallbutton {
+  margin-top: 15px;
+  margin-left: 930px;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: white;
+  transition: 1s;
+}
+
+.saveallbutton:hover {
+  background-color: lightcoral;
+}
+
+.saveallbutton:focus {
+  background-color: white;
+}
+
+#file {
+  margin: 30px 250px;
+  outline-style: solid;
+  outline-width: 1px;
+  outline-offset: 2px;
+}
