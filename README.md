@@ -1,6 +1,6 @@
 # Reactjs_Django_PostgreSQL_csvfile-parsing-management
 
-## prerequisite: React,Django REST,PostgreSQL,CORS,Pipenv,PAPAPARSE
+## Prerequisite: React,Django REST,PostgreSQL,CORS,Pipenv,PAPAPARSE
 
 ## 1: FrontView Before CSV File Parsing
 ![image](https://github.com/6vvvvvv/Reactjs_Django_PostgreSQL_csvfile-parsing-management/blob/master/img/1.before%20parse%20file.jpg)
